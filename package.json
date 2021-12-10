@@ -1,0 +1,27 @@
+{
+  "name": "taichi-orm-examples",
+  "version": "0.1.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thfai2000/taichi-orm-examples.git"
+  },
+  "exports": {
+    "./simple": "./build/simple.js"
+  },
+  "author": "Eddie Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thfai2000/taichi-orm-examples/issues"
+  },
+  "homepage": "https://github.com/thfai2000/taichi-orm-examples#readme",
+  "dependencies": {
+    "knex": "^0.95.14",
+    "mysql2": "^2.3.3",
+    "taichi-orm": "^0.1.8"
+  }
+}
