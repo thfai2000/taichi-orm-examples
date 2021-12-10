@@ -1,8 +1,8 @@
 {
   "name": "taichi-orm-examples",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "",
-  "main": "index.js",
+  "main": "simple.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
